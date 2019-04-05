@@ -9,7 +9,7 @@
 }
 .membersGroup-v9BXpm {
   transition: all .5s ease;
-  transform: translateX(150px);
+  transform: translateX(50px);
 }
 .membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
   transform: translateX(0);
